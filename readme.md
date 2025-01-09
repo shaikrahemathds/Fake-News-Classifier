@@ -18,17 +18,17 @@ This project tackles the challenge of identifying fake news articles using machi
 ---
 
 ## Project Structure:
-.
-├── requirements.txt        # Python dependencies
-├── preprocessing_only_text.ipynb  # Preprocessing the dataset
-├── standard_ml_model.ipynb      # Training standard ML models
-├── ANN.ipynb                   # Training the ANN model
-├── BERT.ipynb                  # Training the BERT model
-├── LSTM.ipynb                  # LSTM model for classification
-├── standard_ml_model.py       # Running predictions with ML models
-├── ANN_model.py               # Running predictions with ANN model
-├── BERT_model.py              # Running predictions with BERT model
-
+```
+├── requirements.txt                # Python dependencies
+├── preprocessing_only_text.ipynb   # Preprocessing the dataset
+├── standard_ml_model.ipynb         # Training standard ML models
+├── ANN.ipynb                       # Training the ANN model
+├── BERT.ipynb                      # Training the BERT model
+├── LSTM.ipynb                      # LSTM model for classification
+├── standard_ml_model.py            # Running predictions with ML models
+├── ANN_model.py                    # Running predictions with ANN model
+├── BERT_model.py                   # Running predictions with BERT model
+```
 
 ---
 
