@@ -1,0 +1,16 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore all folders
+*/
+
+# Ignore all .pkl files
+*.pkl
+
+# Ignore all .pth files
+*.pth
+
+bert.py
+glove.6B.100d.txt
+lstm.py
+preprocessing_first_try.ipynb
