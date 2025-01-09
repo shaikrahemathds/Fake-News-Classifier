@@ -37,13 +37,11 @@ This project tackles the challenge of identifying fake news articles using machi
 ## 🚀 Getting Started:
 
 ### 1. **Clone the Repository:**
-```bash
-git clone <repository-url>
-cd <repository-directory>
+    git clone <repository-url>
+    cd <repository-directory>
 
 ### 2. **Install Dependencies:**
-```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### 3. Download dataset:
 [Dataset](https://drive.google.com/file/d/1ZKVzTnCE-U5uMkopcBsPNj0LFtPTX3z4/view?usp=sharing )
